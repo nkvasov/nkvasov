@@ -1,4 +1,5 @@
-### Hi there 👋
+![Header](./header-image.jpg)
+### Привет, меня зовут Николай! 👋
 
 <!--
 **nkvasov/nkvasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
