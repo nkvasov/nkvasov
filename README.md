@@ -17,9 +17,9 @@
 ![Node](https://img.shields.io/badge/-Node-090909?style=flat-square&logo=Node.js)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=flat-square&logo=Adobe-Photoshop)
 ![Adobe InDesign](https://img.shields.io/badge/-InDesign-090909?style=flat-square&logo=Adobe-InDesign)
-
-### Контакты
-
+   
+---
+   
 **nkvasov@yandex.ru**
 
 Telegram: [**@nkvasov**](https://t.me/nkvasov)
