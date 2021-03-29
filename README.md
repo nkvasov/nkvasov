@@ -1,10 +1,8 @@
 ![Header](./header-image.jpg)
 ## Привет, меня зовут Николай!
 
-Я начинающий фронтенд разработчик из Москвы.    
-
-Проработал в препрессе почти 20 лет.    
-Но жизнь продолжается, и теперь я в поисках интересного занятия на следующие 20 лет.    
+Я начинающий фронтенд-разработчик из Москвы.    
+Мне нравится реализовывать что‑то новое и оттачивать детали. 
 Хочу быть причастным к чему-то важному и стремлюсь к совершенству.
 
 Мой стэк:
@@ -22,8 +20,11 @@
 
 
 **nkvasov@yandex.ru**
+
+Telegram: [**@nkvasov**](https://t.me/nkvasov)
 <!--
 **nkvasov/nkvasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
