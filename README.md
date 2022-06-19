@@ -1,8 +1,8 @@
 ![Header](./header-image.jpg)
-## Привет, меня зовут Николай!
+## Привет, меня зовут Николай Квасов!
 
-Я начинающий фронтенд-разработчик из Москвы.    
-Мне нравится реализовывать что‑то новое и оттачивать детали.   
+Я фронтенд-разработчик из Москвы.    
+Мне нравится копаться в коде и реализовывать что‑то новое.   
 Хочу быть причастным к чему-то важному и стремлюсь к совершенству.
 
 Мой стэк:
@@ -12,6 +12,7 @@
 ![BEM](https://img.shields.io/badge/-BEM-090909?style=flat-square&logo=Hack-The-Box)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat-square&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-090909?style=flat-square&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=flat-square&logo=Redux)
 ![Git](https://img.shields.io/badge/-Git-090909?style=flat-square&logo=Git)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=flat-square&logo=Webpack)
 ![Node](https://img.shields.io/badge/-Node-090909?style=flat-square&logo=Node.js)
@@ -21,6 +22,8 @@
 ---
    
 **nkvasov@yandex.ru**
+   
+**www.nkvasov.ru**
 
 Telegram: [**@nkvasov**](https://t.me/nkvasov)
 <!--
